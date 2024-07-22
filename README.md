@@ -1,3 +1,3 @@
 # apnacollege-demo1
-This is my first repository
-author-tanu
+This is my first repository.
+author - tanu
